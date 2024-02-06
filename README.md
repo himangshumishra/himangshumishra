@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himangshu Mishra</h1>
 <h3 align="center">A full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himangshumishra&label=Profile%20views&color=0e75b6&style=flat" alt="himangshumishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himangshumishra&label=Profile%20views&color=0e75b6&style=flat&count=2000" alt="himangshumishra-profileview" /> </p>
 
 [![An image from @himangshumishra's linkedin profile, which is a link to view his full profile](https://media.licdn.com/dms/image/D5616AQGphTiA2Ikeaw/profile-displaybackgroundimage-shrink_350_1400/0/1705329483585?e=1711584000&v=beta&t=ZskBGDlLTn2AWPmlxo1jf6LoBoHp8YUg08rp6O85zHk)](https://www.linkedin.com/in/himangshumishra/)
 
