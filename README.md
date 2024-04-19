@@ -5,7 +5,7 @@
 
 
 
-[![An image from @himangshumishra's linkedin profile, which is a link to view his full profile](https://media.licdn.com/dms/image/D5616AQGphTiA2Ikeaw/profile-displaybackgroundimage-shrink_350_1400/0/1705329483585?e=1711584000&v=beta&t=ZskBGDlLTn2AWPmlxo1jf6LoBoHp8YUg08rp6O85zHk)](https://www.linkedin.com/in/himangshumishra/)
+[![An image from @himangshumishra's linkedin profile, which is a link to view his full profile](https://media.licdn.com/dms/image/D5616AQGphTiA2Ikeaw/profile-displaybackgroundimage-shrink_350_1400/0/1705329483585?e=1718841600&v=beta&t=Q1VRN3MLw1-MOe2lq2PAU9rpUaNk5cjUSVwBvabSGdU)](https://www.linkedin.com/in/himangshumishra/)
 
 <p align="left"> <a href="https://twitter.com/himangshuji" target="blank"><img src="https://img.shields.io/twitter/follow/himangshuji?logo=twitter&style=for-the-badge" alt="himangshumishra-twitter" /></a> </p>
 
