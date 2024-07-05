@@ -5,7 +5,7 @@
 
 
 
-[![An image from @himangshumishra's linkedin profile, which is a link to view his full profile](https://pbs.twimg.com/profile_banners/1750526616537886720/1706196230/1500x500)
+![An image from @himangshumishra's linkedin profile, which is a link to view his full profile](https://pbs.twimg.com/profile_banners/1750526616537886720/1706196230/1500x500)
 
 <p align="left"> <a href="https://twitter.com/himangshuji" target="blank"><img src="https://img.shields.io/twitter/follow/himangshuji?logo=twitter&style=for-the-badge" alt="himangshumishra-twitter" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **ReactJs, Javascript, Web Developement, Technology**
 
-- 📫 How to reach me **imhimangshumishra@gmail.com**
+- 📫 Reach me here - **imhimangshumishra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
